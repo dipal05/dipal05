@@ -5,7 +5,7 @@ Learning through hands-on projects, study sessions, and applying everything to t
 Ready to turn curiosity into solutions! 🚀
 
 Currently Learning 📖
-Web Development
-Python
-HTML & CSS
-JavaScript
+  Web Development
+  Python
+  HTML & CSS
+  JavaScript
